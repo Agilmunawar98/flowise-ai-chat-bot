@@ -1,3 +1,5 @@
+HEAD
+
 <!-- markdownlint-disable MD030 -->
 
 <img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.png?raw=true"></a>
@@ -214,3 +216,10 @@ See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://
 ## 📄 License
 
 Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
+
+# Requirements
+
+-   NodeJS https://nodejs.org/en
+-   PNPM https://pnpm.io/installation
+-   Git https://www.git-scm.com
+    c306dd34b180aba8ccf94b332c50fcebbe3d74bb
